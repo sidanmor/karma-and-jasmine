@@ -1,4 +1,4 @@
-# karmaANDjasmine
+# karma-and-jasmine
 Karma &amp; Jasmine - Install and Run
 
 1. npm install
